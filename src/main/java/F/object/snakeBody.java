@@ -41,4 +41,5 @@ public  class snakeBody extends gameBody {
     public static void setDdire(int dire) {
         ddire = dire;
     }
- }
+
+}
